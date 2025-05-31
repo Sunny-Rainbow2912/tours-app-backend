@@ -1,4 +1,4 @@
-package com.toursappbackend.config;
+package com.toursappbackend.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
