@@ -1,6 +1,6 @@
 package com.toursappbackend.controller;
 
-import com.toursappbackend.model.Event;
+import com.toursappbackend.entity.Event;
 import com.toursappbackend.service.EventService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

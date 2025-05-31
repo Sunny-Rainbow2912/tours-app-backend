@@ -1,6 +1,6 @@
 package com.toursappbackend.service;
 
-import com.toursappbackend.model.Group;
+import com.toursappbackend.entity.Group;
 import com.toursappbackend.repository.GroupRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

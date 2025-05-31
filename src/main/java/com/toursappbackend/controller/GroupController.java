@@ -1,6 +1,6 @@
 package com.toursappbackend.controller;
 
-import com.toursappbackend.model.Group;
+import com.toursappbackend.entity.Group;
 import com.toursappbackend.service.GroupService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

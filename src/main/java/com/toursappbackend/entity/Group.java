@@ -1,4 +1,4 @@
-package com.toursappbackend.model;
+package com.toursappbackend.entity;
 
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;

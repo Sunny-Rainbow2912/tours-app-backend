@@ -1,8 +1,8 @@
 package com.toursappbackend.config;
 
 
-import com.toursappbackend.model.Event;
-import com.toursappbackend.model.Group;
+import com.toursappbackend.entity.Event;
+import com.toursappbackend.entity.Group;
 import com.toursappbackend.repository.EventRepository;
 import com.toursappbackend.repository.GroupRepository;
 import lombok.RequiredArgsConstructor;
